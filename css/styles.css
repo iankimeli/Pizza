@@ -33,6 +33,7 @@ figure img {
     height: inherit;
     width: inherit;
     background-color: chocolate;
+    background-blend-mode: soft-light;
 
 }
 .checkout {
@@ -44,4 +45,8 @@ figure img {
     padding: 20px;
     background-color: black;
     border-radius: 20px;
+}
+#order-pizza {
+    padding: 20px 50px 20px 50px;
+    font-family: fantasy;
 }
