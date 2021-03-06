@@ -1,0 +1,22 @@
+#pice-pizza {
+    font-family: fantasy;
+    font-size: 35px;
+    font-weight: normal;
+    color: rgb(153, 52, 5);
+}
+.logo {
+    background-color: chocolate;
+}
+.navi {
+    float: right;
+}
+li {
+    display: inline;
+    margin-right: 20px;
+    font-size: 40px;
+    font-family: fantasy;
+    
+}
+.nav-items {
+    text-decoration: rgb(153, 52, 5);
+}
