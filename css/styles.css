@@ -20,7 +20,7 @@ li {
 .nav-items {
     text-decoration: rgb(153, 52, 5);
 }
-.col-sm-4 {
-    width: 400px;
-    height: 296px;
+figure img {
+    height: 260px;
+    width: 260px;
 }
