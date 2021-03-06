@@ -8,4 +8,4 @@ you must have internet connection to use the webapp
 # Technologies Used
 Simple HTML CSS and Javasript
 # License
-# Copyright (c) 2021 * Ian Kimeli (./LICENCE)
+## Copyright (c) 2021 * Ian Kimeli (./LICENCE)
