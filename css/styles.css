@@ -23,4 +23,15 @@ li {
 figure img {
     height: 260px;
     width: 260px;
+    opacity: 6;
+}
+#menu {
+    font-family: fantasy;
+}
+
+.menu-overlay {
+    height: inherit;
+    width: inherit;
+    background-color: chocolate;
+
 }
