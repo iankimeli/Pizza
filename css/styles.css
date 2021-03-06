@@ -23,7 +23,7 @@ li {
 figure img {
     height: 260px;
     width: 260px;
-    opacity: 6;
+
 }
 #menu {
     font-family: fantasy;
@@ -34,4 +34,8 @@ figure img {
     width: inherit;
     background-color: chocolate;
 
+}
+.checkout {
+    border-radius: 20px;
+    margin-top: 20px;
 }
