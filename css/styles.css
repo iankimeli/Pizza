@@ -39,3 +39,9 @@ figure img {
     border-radius: 20px;
     margin-top: 20px;
 }
+.order-overlay {
+    height: inherit;
+    padding: 20px;
+    background-color: black;
+    border-radius: 20px;
+}
