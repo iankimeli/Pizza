@@ -72,7 +72,7 @@ body {
 }
 
 #order-pizza {
-    color: #000;
+    background-image: 
 }
 
 #list li {
@@ -116,12 +116,6 @@ body {
 
 .deliver, .delivernot {
     margin: 10px;
-}
-.foot {
-    background-image: url("/pics/b1.jpg");
-    opacity: 0.6;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .footl {
